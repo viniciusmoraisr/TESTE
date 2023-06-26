@@ -15,7 +15,7 @@ ul{
 img{
     width: 280px;
     height: 280px;
-    border-radius: 40%;
+    border-radius: 70%;
     border: 2px solid blue;
     justify-content:end;
 }
